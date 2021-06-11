@@ -1,0 +1,36 @@
+,symbol,industry,sector,fullTimeEmployees
+0,AAPL,Consumer Electronics,Technology,100000
+1,NVDA,Semiconductors,Technology,18975
+2,NFLX,Entertainment,Communication Services,9400
+3,GOOGL,Internet Content & Information,Communication Services,139995
+4,KLAC,Semiconductor Equipment & Materials,Technology,10600
+5,GOOG,Internet Content & Information,Communication Services,139995
+6,A,Diagnostics & Research,Healthcare,16400
+7,ROKU,Entertainment,Communication Services,1925
+8,INTU,Software—Application,Technology,10600
+9,XLNX,Semiconductors,Technology,4891
+10,FEYE,Software—Infrastructure,Technology,3400
+11,LITE,Communication Equipment,Technology,5473
+12,ISRG,Medical Instruments & Supplies,Healthcare,8081
+13,TRMB,Scientific & Technical Instruments,Technology,11402
+14,QUOT,Advertising Agencies,Communication Services,1163
+15,FTNT,Software—Infrastructure,Technology,8615
+16,EGHT,Software—Application,Technology,1675
+17,DRRX,Drug Manufacturers—Specialty & Generic,Healthcare,81
+18,SNPS,Software—Infrastructure,Technology,15036
+19,ATOM,Semiconductor Equipment & Materials,Technology,21
+20,VCRA,Communication Equipment,Technology,688
+21,OMCL,Health Information Services,Healthcare,2860
+22,AOSL,Semiconductors,Technology,3978
+23,PDFS,Software—Application,Technology,423
+24,AMTX,Oil & Gas Refining & Marketing,Energy,164
+25,CCXI,Biotechnology,Healthcare,133
+26,CEVA,Semiconductors,Technology,404
+27,OOMA,Telecom Services,Communication Services,357
+28,IRIX,Medical Devices,Healthcare,89
+29,ESTC,Software—Application,Technology,2084
+30,ANIX,Diagnostics & Research,Healthcare,3
+31,ARDS,Biotechnology,Healthcare,33
+32,CRWD,Software—Infrastructure,Technology,3394
+33,SIBN,Medical Devices,Healthcare,295
+34,IGMS,Biotechnology,Healthcare,107
